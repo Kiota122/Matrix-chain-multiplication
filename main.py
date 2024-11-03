@@ -158,7 +158,7 @@ def MainMenu():
     print("------------------------------------------------------------")
     print("------------------------------------------------------------")
     print("\t\tOPTIMAL MATRIX MULTIPLICATION CALCULATOR")
-    print("\t\t\t   Tạ Đình Sơn Tùng - HE160762")
+    print("\t\t\t   Nguyễn Đăng Tạ Khôi - 2020604232")
     print("\t\t\t\t\t\tMain Menu")
     print()
     print("1.Generate matrix")
